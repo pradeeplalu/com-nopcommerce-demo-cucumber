@@ -1,0 +1,118 @@
+2022-05-14 14:05:886 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-14 16:05:358 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-14 16:05:374 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-14 16:05:828 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (8bcd3d4c5e9288e958a1615ed56f1c85)] -> link text: Log in]
+2022-05-15 06:05:624 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-15 06:05:230 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (e145bbe27a2c9cf2df0d8567a61a69ca)] -> link text: Log in]
+2022-05-15 06:05:278 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on WINDOWS (e145bbe27a2c9cf2df0d8567a61a69ca)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2022-05-17 12:05:922 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 12:05:992 INFO  HomePage :93 - Click on 'Computers' tab <br>
+2022-05-17 12:05:930 INFO  ComputerPage :31 - Get pageTitle text : [[ChromeDriver: chrome on WINDOWS (fdf9a7e6f72052188cb304f3b6e50d7e)] -> css selector: div[class='page-title'] h1]<br>
+2022-05-17 12:05:864 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 12:05:167 INFO  HomePage :93 - Click on 'Computers' tab <br>
+2022-05-17 12:05:591 INFO  ComputerPage :38 - Click on 'Desktops' link <br>
+2022-05-17 12:05:263 INFO  ComputerPage :31 - Get pageTitle text : [[ChromeDriver: chrome on WINDOWS (64cd51781c3653fb9be669613169c492)] -> css selector: div[class='page-title'] h1]<br>
+2022-05-17 12:05:35 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 12:05:548 INFO  HomePage :93 - Click on 'Computers' tab <br>
+2022-05-17 12:05:235 INFO  ComputerPage :38 - Click on 'Desktops' link <br>
+2022-05-17 12:05:604 INFO  DesktopsPage :56 - Click on product 'Build your own computer' : Build your own computer<br>
+2022-05-17 12:05:286 INFO  BuildYourOwnComputerPage :61 - Select processor '2.2 GHz Intel Pentium Dual-Core E2200'<br>
+2022-05-17 12:05:386 INFO  BuildYourOwnComputerPage :66 - Select RAM '2 GB'<br>
+2022-05-17 12:05:473 INFO  BuildYourOwnComputerPage :73 - Select HDD '320 GB'<br>
+2022-05-17 12:05:558 INFO  BuildYourOwnComputerPage :83 - Select HDD 'Vista Home [+$50.00]'<br>
+2022-05-17 12:05:640 INFO  BuildYourOwnComputerPage :93 - Select Software '[[ChromeDriver: chrome on WINDOWS (8cc5e9c52c054ad7b29efb01ceba52d7)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'<br>
+2022-05-17 12:05:718 INFO  BuildYourOwnComputerPage :101 - Click on 'ADD TO CART' Button<br>
+2022-05-17 12:05:612 INFO  BuildYourOwnComputerPage :106 - Get productAdded Message : The product has been added to your shopping cart<br>
+2022-05-17 12:05:467 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 12:05:740 INFO  HomePage :93 - Click on 'Computers' tab <br>
+2022-05-17 12:05:424 INFO  ComputerPage :38 - Click on 'Desktops' link <br>
+2022-05-17 12:05:981 INFO  DesktopsPage :56 - Click on product 'Build your own computer' : Build your own computer<br>
+2022-05-17 12:05:999 INFO  BuildYourOwnComputerPage :61 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'<br>
+2022-05-17 12:05:94 INFO  BuildYourOwnComputerPage :66 - Select RAM '4GB [+$20.00]'<br>
+2022-05-17 12:05:221 INFO  BuildYourOwnComputerPage :73 - Select HDD '400 GB [+$100.00]'<br>
+2022-05-17 12:05:343 INFO  BuildYourOwnComputerPage :83 - Select HDD 'Vista Premium [+$60.00]'<br>
+2022-05-17 12:05:441 INFO  BuildYourOwnComputerPage :93 - Select Software '[[ChromeDriver: chrome on WINDOWS (944ff71f0b67fded548407fa857834a8)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'<br>
+2022-05-17 12:05:506 INFO  BuildYourOwnComputerPage :101 - Click on 'ADD TO CART' Button<br>
+2022-05-17 12:05:368 INFO  BuildYourOwnComputerPage :106 - Get productAdded Message : The product has been added to your shopping cart<br>
+2022-05-17 12:05:189 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 12:05:342 INFO  HomePage :93 - Click on 'Computers' tab <br>
+2022-05-17 12:05:69 INFO  ComputerPage :38 - Click on 'Desktops' link <br>
+2022-05-17 12:05:616 INFO  DesktopsPage :56 - Click on product 'Build your own computer' : Build your own computer<br>
+2022-05-17 12:05:588 INFO  BuildYourOwnComputerPage :61 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'<br>
+2022-05-17 12:05:673 INFO  BuildYourOwnComputerPage :66 - Select RAM '8GB [+$60.00]'<br>
+2022-05-17 12:05:753 INFO  BuildYourOwnComputerPage :73 - Select HDD '320 GB'<br>
+2022-05-17 12:05:918 INFO  BuildYourOwnComputerPage :93 - Select Software '[[ChromeDriver: chrome on WINDOWS (cc8f4987a48b465a81cf4d73b18fd5d6)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'<br>
+2022-05-17 12:05:987 INFO  BuildYourOwnComputerPage :101 - Click on 'ADD TO CART' Button<br>
+2022-05-17 12:05:923 INFO  BuildYourOwnComputerPage :106 - Get productAdded Message : The product has been added to your shopping cart<br>
+2022-05-17 17:05:15 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 17:05:539 INFO  HomePage :64 - Clicking on register link : [[ChromeDriver: chrome on WINDOWS (4b5f6eea385181bbeeeaba29ce7a2e06)] -> link text: Register]
+2022-05-17 17:05:501 INFO  RegisterPage :87 - Select 'Female' radio button<br>
+2022-05-17 17:05:442 INFO  RegisterPage :96 - Enter Firstname : 'blue' to firstName field<br>
+2022-05-17 17:05:229 INFO  RegisterPage :101 - Enter Lastname : 'ocean' to lastName field<br>
+2022-05-17 17:05:251 INFO  RegisterPage :108 - Select day : '22', month : 'February', year : '1980'<br>
+2022-05-17 17:05:835 INFO  RegisterPage :113 - Enter Email : 'efLu5@gmail.com' to email field<br>
+2022-05-17 17:05:554 INFO  LoginPage :52 - Enter password Abcd1234 to password field [[ChromeDriver: chrome on WINDOWS (4b5f6eea385181bbeeeaba29ce7a2e06)] -> name: Password]<br>
+2022-05-17 17:05:229 INFO  RegisterPage :123 - Enter Confirm password : 'Abcd1234' to confirm password field<br>
+2022-05-17 17:05:257 INFO  RegisterPage :127 - Click on 'REGISTER' button<br>
+2022-05-17 17:05:141 INFO  RegisterPage :145 - Get your reg completed text : [[ChromeDriver: chrome on WINDOWS (4b5f6eea385181bbeeeaba29ce7a2e06)] -> css selector: .result]<br>
+2022-05-17 17:05:946 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 17:05:232 INFO  HomePage :93 - Click on 'Computers' tab <br>
+2022-05-17 17:05:917 INFO  ComputerPage :38 - Click on 'Desktops' link <br>
+2022-05-17 17:05:610 INFO  DesktopsPage :56 - Click on product 'Build your own computer' : Build your own computer<br>
+2022-05-17 17:05:908 INFO  BuildYourOwnComputerPage :61 - Select processor '2.2 GHz Intel Pentium Dual-Core E2200'<br>
+2022-05-17 17:05:989 INFO  BuildYourOwnComputerPage :66 - Select RAM '2 GB'<br>
+2022-05-17 17:05:358 INFO  BuildYourOwnComputerPage :73 - Select HDD '320 GB'<br>
+2022-05-17 17:05:600 INFO  BuildYourOwnComputerPage :83 - Select HDD 'Vista Home [+$50.00]'<br>
+2022-05-17 17:05:313 INFO  BuildYourOwnComputerPage :93 - Select Software '[[ChromeDriver: chrome on WINDOWS (33ba82176e8822c04ca59ac38a64d61f)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'<br>
+2022-05-17 17:05:584 INFO  BuildYourOwnComputerPage :101 - Click on 'ADD TO CART' Button<br>
+2022-05-17 17:05:868 INFO  BuildYourOwnComputerPage :106 - Get productAdded Message : The product has been added to your shopping cart<br>
+2022-05-17 17:05:310 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 17:05:628 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 17:05:418 INFO  HomePage :93 - Click on 'Computers' tab <br>
+2022-05-17 17:05:422 INFO  ComputerPage :38 - Click on 'Desktops' link <br>
+2022-05-17 20:05:755 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 20:05:834 INFO  HomePage :93 - Click on 'Computers' tab <br>
+2022-05-17 20:05:559 INFO  ComputerPage :31 - Get pageTitle text : [[ChromeDriver: chrome on WINDOWS (27fbed0af552744cefb379960723d508)] -> css selector: div[class='page-title'] h1]<br>
+2022-05-17 20:05:674 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 20:05:854 INFO  HomePage :93 - Click on 'Computers' tab <br>
+2022-05-17 20:05:585 INFO  ComputerPage :38 - Click on 'Desktops' link <br>
+2022-05-17 20:05:162 INFO  ComputerPage :31 - Get pageTitle text : [[ChromeDriver: chrome on WINDOWS (fbb499d376d78e5cc3bce237000d5963)] -> css selector: div[class='page-title'] h1]<br>
+2022-05-17 20:05:523 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 20:05:812 INFO  HomePage :93 - Click on 'Computers' tab <br>
+2022-05-17 20:05:547 INFO  ComputerPage :31 - Get pageTitle text : [[ChromeDriver: chrome on WINDOWS (df061a6562baf812be6d03a5d9b0dfaf)] -> css selector: div[class='page-title'] h1]<br>
+2022-05-17 20:05:478 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 20:05:319 INFO  HomePage :93 - Click on 'Computers' tab <br>
+2022-05-17 20:05:24 INFO  ComputerPage :38 - Click on 'Desktops' link <br>
+2022-05-17 20:05:530 INFO  ComputerPage :31 - Get pageTitle text : [[ChromeDriver: chrome on WINDOWS (7a8e0cdcaad11ad9ed7975fcca0d6105)] -> css selector: div[class='page-title'] h1]<br>
+2022-05-17 20:05:525 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 20:05:312 INFO  HomePage :93 - Click on 'Computers' tab <br>
+2022-05-17 20:05:981 INFO  ComputerPage :38 - Click on 'Desktops' link <br>
+2022-05-17 20:05:562 INFO  DesktopsPage :56 - Click on product 'Build your own computer' : Build your own computer<br>
+2022-05-17 20:05:657 INFO  BuildYourOwnComputerPage :61 - Select processor '2.2 GHz Intel Pentium Dual-Core E2200'<br>
+2022-05-17 20:05:749 INFO  BuildYourOwnComputerPage :66 - Select RAM '2 GB'<br>
+2022-05-17 20:05:831 INFO  BuildYourOwnComputerPage :73 - Select HDD '320 GB'<br>
+2022-05-17 20:05:922 INFO  BuildYourOwnComputerPage :83 - Select HDD 'Vista Home [+$50.00]'<br>
+2022-05-17 20:05:17 INFO  BuildYourOwnComputerPage :93 - Select Software '[[ChromeDriver: chrome on WINDOWS (1fac5c6214b937f0777375354e9d397a)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'<br>
+2022-05-17 20:05:86 INFO  BuildYourOwnComputerPage :101 - Click on 'ADD TO CART' Button<br>
+2022-05-17 20:05:59 INFO  BuildYourOwnComputerPage :106 - Get productAdded Message : The product has been added to your shopping cart<br>
+2022-05-17 20:05:969 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 20:05:657 INFO  HomePage :93 - Click on 'Computers' tab <br>
+2022-05-17 20:05:358 INFO  ComputerPage :38 - Click on 'Desktops' link <br>
+2022-05-17 20:05:965 INFO  DesktopsPage :56 - Click on product 'Build your own computer' : Build your own computer<br>
+2022-05-17 20:05:336 INFO  BuildYourOwnComputerPage :61 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'<br>
+2022-05-17 20:05:423 INFO  BuildYourOwnComputerPage :66 - Select RAM '4GB [+$20.00]'<br>
+2022-05-17 20:05:524 INFO  BuildYourOwnComputerPage :73 - Select HDD '400 GB [+$100.00]'<br>
+2022-05-17 20:05:624 INFO  BuildYourOwnComputerPage :83 - Select HDD 'Vista Premium [+$60.00]'<br>
+2022-05-17 20:05:725 INFO  BuildYourOwnComputerPage :93 - Select Software '[[ChromeDriver: chrome on WINDOWS (291de1b43c643e418e5616ed93a14275)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'<br>
+2022-05-17 20:05:794 INFO  BuildYourOwnComputerPage :101 - Click on 'ADD TO CART' Button<br>
+2022-05-17 20:05:135 INFO  BuildYourOwnComputerPage :106 - Get productAdded Message : The product has been added to your shopping cart<br>
+2022-05-17 20:05:25 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-05-17 20:05:794 INFO  HomePage :93 - Click on 'Computers' tab <br>
+2022-05-17 20:05:445 INFO  ComputerPage :38 - Click on 'Desktops' link <br>
+2022-05-17 20:05:46 INFO  DesktopsPage :56 - Click on product 'Build your own computer' : Build your own computer<br>
+2022-05-17 20:05:32 INFO  BuildYourOwnComputerPage :61 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'<br>
+2022-05-17 20:05:129 INFO  BuildYourOwnComputerPage :66 - Select RAM '8GB [+$60.00]'<br>
+2022-05-17 20:05:210 INFO  BuildYourOwnComputerPage :73 - Select HDD '320 GB'<br>
+2022-05-17 20:05:377 INFO  BuildYourOwnComputerPage :93 - Select Software '[[ChromeDriver: chrome on WINDOWS (dcea3a271e0ee547815c8e47bffba3e9)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'<br>
+2022-05-17 20:05:452 INFO  BuildYourOwnComputerPage :101 - Click on 'ADD TO CART' Button<br>
+2022-05-17 20:05:778 INFO  BuildYourOwnComputerPage :106 - Get productAdded Message : The product has been added to your shopping cart<br>
